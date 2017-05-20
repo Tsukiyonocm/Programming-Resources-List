@@ -2,18 +2,18 @@
 ## List of tutorials and various other things of interest
 
 ### Prototyping Wireframing Resources:
-* **1. https://www.gomockingbird.com** - Simple website that allows you to rough out a design for a webpage or app online and free.
+* **https://www.gomockingbird.com** - Simple website that allows you to rough out a design for a webpage or app online and free.
 
 ### Javascript Project Based Learning:
-* **1. www.watchandcode.com** - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
-* **2. http://javascriptissexy.com/how-to-learn-javascript-properly/** - Learning plan for learning Javascript (Does touch on html and css as well)
-* **3. https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos** - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
+* **www.watchandcode.com** - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
+* **http://javascriptissexy.com/how-to-learn-javascript-properly/** - Learning plan for learning Javascript (Does touch on html and css as well)
+* **https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos** - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
 
 ### PHP Resources:
-* **1. http://www.phptherightway.com**
+* **http://www.phptherightway.com**
 
 ### Python Programming:
-* **1. https://automatetheboringstuff.com/**
+* **https://automatetheboringstuff.com/**
 
 ### Royalty Free Image Resources:
-* **1. www.unsplash.com** - Lots of good high quality images to be used.
+* **www.unsplash.com** - Lots of good high quality images to be used.
