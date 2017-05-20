@@ -7,6 +7,7 @@ Prototyping Wireframing Resources:
 Javascript Project Based Learning:
 1. www.watchandcode.com - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
 2. http://javascriptissexy.com/how-to-learn-javascript-properly/ - Learning plan for learning Javascript (Does touch on html and css as well)
+3. https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
 
 PHP Resources:
 1. http://www.phptherightway.com
