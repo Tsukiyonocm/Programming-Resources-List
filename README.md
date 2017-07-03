@@ -20,10 +20,4 @@
 
 
 ## Remote Freelance Work Job Sites ##
-10xmanagement - Hire the Best Freelance Tech Talent. It has served customers like MIT, AMEX, yelp and even Google.
-Angel List Jobs - Apply privately to thousands of the best startup jobs.
-Authentic Jobs - Full-time and freelance job opportunities for creatives.
-#freelance - A community for freelancers on Slack
-#frontenddevelopers.org - A Slack powered community for creative developers to share knowledge
-Codeable - Remote jobs for top WordPress developers.
-Code Gophers - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. Become a Gopher
+
