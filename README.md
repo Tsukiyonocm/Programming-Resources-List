@@ -16,7 +16,7 @@
 * **https://automatetheboringstuff.com/**
 
 ### Royalty Free Image Resources:
-* **[Unsplash]**(www.unsplash.com "Title") - Lots of good high quality images to be used.
+* **www.unsplash.com** - Lots of good high quality images to be used.
 
 
 ## Remote Freelance Work Job Sites
