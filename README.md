@@ -12,11 +12,15 @@
 ### PHP Resources:
 * **http://www.phptherightway.com**
 
-### Python Programming:
-* **https://automatetheboringstuff.com/**
-
 ### Royalty Free Image Resources:
 * **www.unsplash.com** - Lots of good high quality images to be used.
+
+## Free Web Based Books
+### Javascript
+* **https://github.com/getify/You-Dont-Know-JS** - You Dont Know JS Series of books (6 total on the link), supposed to be among the best books available on the subject of javascript.
+
+### Python Programming:
+* **https://automatetheboringstuff.com/**
 
 
 ## Remote Freelance Work Job Sites
