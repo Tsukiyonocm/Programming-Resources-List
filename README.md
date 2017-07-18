@@ -17,6 +17,9 @@
 
 ## Free Web Based Books
 
+### HTML and CSS:
+* **http://www.asmarterwaytolearn.com/htmlcss/htmlcss_book-text.html** - A Smarter Way to Learn. There are interactive coding excercises as well listed in the beginning of the book.
+
 ### Javascript:
 * **https://github.com/getify/You-Dont-Know-JS** - You Dont Know JS Series of books (6 total on the link), supposed to be among the best books available on the subject of javascript.
 
