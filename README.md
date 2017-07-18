@@ -9,11 +9,10 @@
 * **http://javascriptissexy.com/how-to-learn-javascript-properly/** - Learning plan for learning Javascript (Does touch on html and css as well)
 * **https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos** - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
 
-### PHP Resources:
-* **http://www.phptherightway.com**
 
 ### Royalty Free Image Resources:
 * **www.unsplash.com** - Lots of good high quality images to be used.
+
 
 ## Free Web Based Books
 
@@ -22,6 +21,9 @@
 
 ### Javascript:
 * **https://github.com/getify/You-Dont-Know-JS** - You Dont Know JS Series of books (6 total on the link), supposed to be among the best books available on the subject of javascript.
+
+### PHP:
+* **http://www.phptherightway.com**
 
 ### Python Programming:
 * **https://automatetheboringstuff.com/**
