@@ -30,12 +30,12 @@
 
 
 ## Interesting CodePens
-* **https://codepen.io/tyrellrummage/pen/wqGgLO
+* ** https://codepen.io/tyrellrummage/pen/wqGgLO
     - A very interesting HTML/CSS animation effect for flipping tiles with 3d text effects.
 
 
 ## Training Possibilities -future
-* **http://www.industryexplorers.com/applicants
+* ** http://www.industryexplorers.com/applicants
 
 
 ## Remote Freelance Work Job Sites
