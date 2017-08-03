@@ -29,6 +29,13 @@
 * **https://automatetheboringstuff.com/**
 
 
+## Interesting CodePens
+* **https://codepen.io/tyrellrummage/pen/wqGgLO
+    - A very interesting HTML/CSS animation effect for flipping tiles with 3d text effects.
+
+
+
+
 ## Remote Freelance Work Job Sites
 * **https://www.10xmanagement.com/**
 * **https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D**
