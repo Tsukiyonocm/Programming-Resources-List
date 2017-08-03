@@ -34,6 +34,8 @@
     - A very interesting HTML/CSS animation effect for flipping tiles with 3d text effects.
 
 
+## Training Possibilities -future
+* **http://www.industryexplorers.com/applicants
 
 
 ## Remote Freelance Work Job Sites
