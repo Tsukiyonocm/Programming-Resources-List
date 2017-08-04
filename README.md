@@ -54,7 +54,7 @@
 * **http://www.doz.com/**
 * **https://dribbble.com/jobs?utf8=%E2%9C%93&anywhere=true&location=Anywhere**
 * **https://www.fiverr.com/**
-* **https://www.flexjobs.com/**
+* **https://www.flexjobs.com/** - seems most worthwhile once its time to apply
 * **https://www.folyo.me/**
 * **https://freelancedevleads.com/**
 * **http://www.golangprojects.com/golang-remote-jobs.html**
