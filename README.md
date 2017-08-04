@@ -37,6 +37,9 @@
 ## Training Possibilities -future
 * **http://www.industryexplorers.com/applicants**
 
+## Template Websites - Use for Practice
+* **http://www.free-css.com/free-css-templates**
+
 
 ## Remote Freelance Work Job Sites
 * **https://www.10xmanagement.com/**
