@@ -29,6 +29,9 @@
 * **https://automatetheboringstuff.com/**
 
 
+## SEO Related:
+* **https://www.clickminded.com/seo-checklist/**
+
 ## Interesting CodePens
 * **https://codepen.io/tyrellrummage/pen/wqGgLO**
     - A very interesting HTML/CSS animation effect for flipping tiles with 3d text effects.
