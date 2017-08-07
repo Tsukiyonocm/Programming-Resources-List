@@ -30,7 +30,8 @@
 
 
 ## SEO Related:
-* **https://www.clickminded.com/seo-checklist/**
+* **https://www.clickminded.com/seo-checklist/** -- checklist of SEO related things to do on new websites.
+* **https://www.facebook.com/groups/makemoneywithwebdesign/permalink/1925435104377106/** -- 5 tips related to local SEO things
 
 ## Interesting CodePens
 * **https://codepen.io/tyrellrummage/pen/wqGgLO**
