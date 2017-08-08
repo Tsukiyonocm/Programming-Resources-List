@@ -11,22 +11,22 @@
 
 
 ### Royalty Free Image Resources:
-* **www.unsplash.com** - Lots of good high quality images to be used.
+* [Unsplash](www.unsplash.com) - Lots of good high quality images to be used.
 
 
 ## Free Web Based Books
 
 ### HTML and CSS:
-* **http://www.asmarterwaytolearn.com/htmlcss/htmlcss_book-text.html** - A Smarter Way to Learn. There are interactive coding excercises as well listed in the beginning of the book.
+* [A Smarter Way to Learn](http://www.asmarterwaytolearn.com/htmlcss/htmlcss_book-text.html) - A Smarter Way to Learn. There are interactive coding excercises as well listed in the beginning of the book.
 
 ### Javascript:
-* **https://github.com/getify/You-Dont-Know-JS** - You Dont Know JS Series of books (6 total on the link), supposed to be among the best books available on the subject of javascript.
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - You Dont Know JS Series of books (6 total on the link), supposed to be among the best books available on the subject of javascript.
 
 ### PHP:
-* **http://www.phptherightway.com**
+* [PHP The Right Way](http://www.phptherightway.com)
 
 ### Python Programming:
-* **https://automatetheboringstuff.com/**
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
 
 ## SEO Related:
