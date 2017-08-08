@@ -92,6 +92,10 @@
 
 * **https://www.reddit.com/r/webdev/comments/6kmvtl/what_are_the_best_websites_to_look_for_remote/** - a reddit post about job listings for remote work. There might be some additional links here so come back and check later.
 
+##  Possible Freelance Charity Work
+
+* **https://www.catchafire.org/** - not just web development.
+
 
 
 
