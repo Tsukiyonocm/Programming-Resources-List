@@ -30,19 +30,19 @@
 
 
 ## SEO Related:
-* **https://www.clickminded.com/seo-checklist/** -- checklist of SEO related things to do on new websites.
-* **https://www.facebook.com/groups/makemoneywithwebdesign/permalink/1925435104377106/** -- 5 tips related to local SEO things
+* [Clickminded Checklist](https://www.clickminded.com/seo-checklist/) - checklist of SEO related things to do on new websites.
+* [Make Money with Webdesign Facebook Post](https://www.facebook.com/groups/makemoneywithwebdesign/permalink/1925435104377106/) - 5 tips related to local SEO things
 
 ## Interesting CodePens
-* **https://codepen.io/tyrellrummage/pen/wqGgLO**
+* [Parallax Flipping CSS Tile](https://codepen.io/tyrellrummage/pen/wqGgLO)
     - A very interesting HTML/CSS animation effect for flipping tiles with 3d text effects.
 
 
 ## Training Possibilities -future
-* **http://www.industryexplorers.com/applicants**
+* [Microsoft Leap Program](http://www.industryexplorers.com/applicants)
 
 ## Template Websites - Use for Practice
-* **http://www.free-css.com/free-css-templates**
+* [Website Templates - Free-css](http://www.free-css.com/free-css-templates)
 
 
 ## Remote Freelance Work Job Sites
