@@ -5,9 +5,9 @@
 * [Mockingbird](https://www.gomockingbird.com) - Simple website that allows you to rough out a design for a webpage or app online and free.
 
 ### Javascript Project Based Learning:
-* **www.watchandcode.com** - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
-* **http://javascriptissexy.com/how-to-learn-javascript-properly/** - Learning plan for learning Javascript (Does touch on html and css as well)
-* **https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos** - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
+* [Watch and Code](www.watchandcode.com) - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
+* [Javascript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/) - Learning plan for learning Javascript (Does touch on html and css as well)
+* [Max Sandelin Youtube Channel](https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos) - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
 
 
 ### Royalty Free Image Resources:
