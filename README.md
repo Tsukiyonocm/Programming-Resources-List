@@ -86,7 +86,7 @@
 * [We Work Remotely](https://weworkremotely.com/)
 * [X-Team](https://x-team.com/)
 * [WFH](https://www.wfh.io/)
-* [Working Nomads] (https://www.workingnomads.co/jobs)
+* [Working Nomads](https://www.workingnomads.co/jobs)
 * [Freelance Per Hour](https://freelance-perhour.com/) - Currently down due to technical issue 8-8-17
 
 * **https://www.reddit.com/r/webdev/comments/6kmvtl/what_are_the_best_websites_to_look_for_remote/** - a reddit post about job listings for remote work. There might be some additional links here so come back and check later.
