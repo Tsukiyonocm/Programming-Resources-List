@@ -52,42 +52,42 @@
 * [Freelance Chat](https://freelance.chat/) - seems to be a slack channel
 * [Frontend Developers](http://frontenddevelopers.org/) - seems to be a slack channel
 * [Codeable](https://codeable.io/)
-* [CodeMentor]https://www.codementor.io/
-* [CodersClan]https://www.codersclan.com/
-* [Coworks]https://coworks.com/for-freelancers/
-* [Crew]https://crew.co/
-* [Domino]https://www.wearedomino.com/freelancer
-* [Doz]http://www.doz.com/
-* [Dribble]https://dribbble.com/jobs?utf8=%E2%9C%93&anywhere=true&location=Anywhere
-* [Fiverr]https://www.fiverr.com/
-* [FlexJobs]https://www.flexjobs.com/ - seems most worthwhile once its time to apply
-* [Folyo]https://www.folyo.me/
-* [FreeLance Dev Lead]https://freelancedevleads.com/
-* [Go/Golang]http://www.golangprojects.com/golang-remote-jobs.html
-* [Gun]https://gun.io/
-* [Guru]http://www.guru.com/ - similar to Upwork
-* [HackHands]https://hackhands.com/
-* [Hired]https://hired.com/
-* [Landing.Jobs]https://landing.jobs/jobs?page=1&hd=false&t_co=false&t_st=false
-* [JobMote]https://jobmote.com/
-* [Jobscribe]http://jobscribe.com/
-* [Lightboard]https://lightboard.io/
-* [Loom]https://www.loom.co/
-* [Next Space]http://nextspace.us/
-* [No Fluff Jobs]https://nofluffjobs.com/#/criteria=remote=100
-* [People Per Hour]https://www.peopleperhour.com/
-* [Pilot]https://pilot.co/
-* [Remote Ok]https://remoteok.io/
-* [Remote Base]https://remotebase.io/
-* [Remotely Awesome Jobs]https://www.remotelyawesomejobs.com/
-* [SevenDays]https://www.sevendays.co/
-* [StackOverflow]https://stackoverflow.com/jobs/remote-developer-jobs
-* [Toptal]https://www.toptal.com/
-* [We Work Remotely]https://weworkremotely.com/
-* [X-Team]https://x-team.com/
-* [WFH]https://www.wfh.io/
-* [Working Nomads] https://www.workingnomads.co/jobs
-* [Freelance Per Hour]https://freelance-perhour.com/ - Currently down due to technical issue 8-8-17
+* [CodeMentor](https://www.codementor.io/)
+* [CodersClan](https://www.codersclan.com/)
+* [Coworks](https://coworks.com/for-freelancers/)
+* [Crew](https://crew.co/)
+* [Domino](https://www.wearedomino.com/freelancer)
+* [Doz](http://www.doz.com/)
+* [Dribble](https://dribbble.com/jobs?utf8=%E2%9C%93&anywhere=true&location=Anywhere)
+* [Fiverr](https://www.fiverr.com/)
+* [FlexJobs](https://www.flexjobs.com/) - seems most worthwhile once its time to apply
+* [Folyo](https://www.folyo.me/)
+* [FreeLance Dev Lead](https://freelancedevleads.com/)
+* [Go/Golang](http://www.golangprojects.com/golang-remote-jobs.html)
+* [Gun](https://gun.io/)
+* [Guru](http://www.guru.com/) - similar to Upwork
+* [HackHands](https://hackhands.com/)
+* [Hired](https://hired.com/)
+* [Landing.Jobs](https://landing.jobs/jobs?page=1&hd=false&t_co=false&t_st=false)
+* [JobMote](https://jobmote.com/)
+* [Jobscribe](http://jobscribe.com/)
+* [Lightboard](https://lightboard.io/)
+* [Loom]https://www.loom.co/)
+* [Next Space]http://nextspace.us/)
+* [No Fluff Jobs]https://nofluffjobs.com/#/criteria=remote=100)
+* [People Per Hour]https://www.peopleperhour.com/)
+* [Pilot]https://pilot.co/)
+* [Remote Ok]https://remoteok.io/)
+* [Remote Base]https://remotebase.io/)
+* [Remotely Awesome Jobs]https://www.remotelyawesomejobs.com/)
+* [SevenDays]https://www.sevendays.co/)
+* [StackOverflow]https://stackoverflow.com/jobs/remote-developer-jobs)
+* [Toptal]https://www.toptal.com/)
+* [We Work Remotely]https://weworkremotely.com/)
+* [X-Team]https://x-team.com/)
+* [WFH]https://www.wfh.io/)
+* [Working Nomads] https://www.workingnomads.co/jobs)
+* [Freelance Per Hour]https://freelance-perhour.com/) - Currently down due to technical issue 8-8-17
 
 * **https://www.reddit.com/r/webdev/comments/6kmvtl/what_are_the_best_websites_to_look_for_remote/** - a reddit post about job listings for remote work. There might be some additional links here so come back and check later.
 
