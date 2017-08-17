@@ -32,6 +32,7 @@
 ## SEO Related:
 * [Clickminded Checklist](https://www.clickminded.com/seo-checklist/) - checklist of SEO related things to do on new websites.
 * [Make Money with Webdesign Facebook Post](https://www.facebook.com/groups/makemoneywithwebdesign/permalink/1925435104377106/) - 5 tips related to local SEO things
+* [Digital Strategy Crash Course](https://www.buildersociety.com/forums/digital-strategy-crash-course.25/)
 
 ## Interesting CodePens
 * [Parallax Flipping CSS Tile](https://codepen.io/tyrellrummage/pen/wqGgLO)
