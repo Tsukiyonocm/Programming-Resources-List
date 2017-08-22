@@ -10,6 +10,9 @@
 * [Max Sandelin Youtube Channel](https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos) - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
 
 
+### HTML/CSS Learning
+* [HTML5 and CSS3 by Quentin Watt](https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en)- Youtube videos. Not watched yet.
+
 ### Royalty Free Image Resources:
 * [Unsplash](www.unsplash.com) - Lots of good high quality images to be used.
 
