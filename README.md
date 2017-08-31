@@ -8,10 +8,14 @@
 * [Watch and Code](www.watchandcode.com) - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
 * [Javascript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/) - Learning plan for learning Javascript (Does touch on html and css as well)
 * [Max Sandelin Youtube Channel](https://www.youtube.com/channel/UCr1BiYXeVfpWRCkS0MGjYkQ/videos) - Some Javascript tutorials created by Max Sandelin. I have watched the Todo app videos, and they are quite nice. Not watched the basic javascript learning videos.
+* [Front-End Development Syllabus](https://novicedock.com/learn/computer-science/web-development) - Put together by someone on Reddit. Not looked through it all yet but can probably get some good links to redirect to other sections of this list.
+* [JavaScript.info](http://javascript.info/) - very indepth JavaScript Guide.
 
 
 ### HTML/CSS Learning
 * [HTML5 and CSS3 by Quentin Watt](https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en)- Youtube videos. Not watched yet.
+* [Single Page App Book](http://singlepageappbook.com/index.html)
+* [Atomic Design](http://atomicdesign.bradfrost.com/)
 
 ### Royalty Free Image Resources:
 * [Unsplash](www.unsplash.com) - Lots of good high quality images to be used.
