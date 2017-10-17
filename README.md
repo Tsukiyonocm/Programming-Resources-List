@@ -4,6 +4,8 @@
 ### Prototyping Wireframing Resources:
 * [Mockingbird](https://www.gomockingbird.com) - Simple website that allows you to rough out a design for a webpage or app online and free.
 
+* [Figma](https://www.figma.com/files/recent) - Seems similar to Photoshop in many respects, though its free and web enabled. Also has Prototyping abilities. Will need to look into this further for sure.
+
 ### Javascript Project Based Learning:
 * [Watch and Code](www.watchandcode.com) - Free listing is a basic TODO app using basic Javascript. Not completed it yet.
 * [Javascript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/) - Learning plan for learning Javascript (Does touch on html and css as well)
